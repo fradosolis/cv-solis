@@ -16,7 +16,7 @@ sections:
     design:
       background:
         image:
-          filename: iot1.png
+          filename: Backcfd.png
           filters:
             brightness: 0.5
         text_color_light: true
@@ -98,47 +98,85 @@ sections:
         <div>
           <!-- Current Role -->
           <details open>
-            <summary><strong>2024–Present | Data Scientist Werkstudent – Bosch Rexroth (Ulm, Germany)</strong></summary>
+            <summary><strong>2025 | Mechanical Engineer – EPCM Company (Lima, Peru)</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
               <ul>
-                <li><strong>Industrial ETL Pipeline:</strong> Designed and implemented a complete ETL process to transmit CtrlX sensor data to a relational database via Solace messaging, fully containerized in Docker</li>
-                <li><strong>Data Processing Optimization:</strong> Developed and optimized stored procedures for restructuring raw sensor streams into machine-learning-ready formats</li>
-                <li><strong>RUL Prediction & Orchestration:</strong> Built predictive models for Remaining Useful Life (RUL) of hydraulic systems using Hidden Markov Models, clustering, and XGBoost — all orchestrated via Dagster</li>
+                <li><strong>Material Handling Systems:</strong> Supervised and validated engineering calculations for belt conveyors, apron feeders, chutes, and steel structures</li>
+                <li><strong>Dust Control:</strong> Designed air extraction and injection systems to mitigate dust emissions</li>
+                <li><strong>Equipment Selection:</strong> Defined mechanical equipment for material handling and dispatch zones at Matarani Port</li>
+                <li><strong>Planning:</strong> Coordinated interdisciplinary schedules and deliverables for Zafranal’s copper concentrate facility</li>
               </ul>
             </div>
           </details>
 
-          <!-- Freeport-McMoRan Era -->
+          <!-- BYV Project -->
           <details open>
-            <summary><strong>2021-2023 | Data Science Lead - Freeport-McMoRan (Global Mining Operations)</strong></summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #e74c3c;">
-              <details>
-                <summary><strong>Presidential Award - July 2022</strong></summary>
-                <div style="margin-left:20px;">
-                  Recognized for developing predictive wear models for primary crushers ("chancadoras primarias") that reduced maintenance costs by $1.2M/year across 6 mines
-                </div>
-              </details>
+            <summary><strong>2024 | Mechanical Engineer – BYV IESEMIN Company (Lima, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #e67e22;">
               <ul>
-                <li><strong>Global ML Scaling:</strong> Productionized Azure ML Jobs serving daily predictions for 200+ heavy assets (crushers, HPGRs, ball mills)</li>
-                <li><strong>Data Infrastructure:</strong> Optimized SQL Stored Procedures reducing ML training data prep time from 8h → 22min</li>
-                <li><strong>Continuous Learning:</strong> Implemented automated retraining pipelines using 5 years of historical operational data</li>
-                <li><strong>Decision Intelligence:</strong> Created Power BI dashboards monitoring 35+ KPIs for maintenance planning</li>
+                <li><strong>Structural Analysis:</strong> Conducted mechanical verification for buildings supporting crushing equipment</li>
+                <li><strong>Equipment Foundations:</strong> Engineered support structures for vibrating screens and crushers</li>
+                <li><strong>Infrastructure:</strong> Evaluated conveyor belt structures and designed compressed air tank installations</li>
+                <li><strong>Documentation:</strong> Managed technical drawings, engineering records, and project schedules</li>
               </ul>
             </div>
           </details>
 
-          <!-- Early Career -->
+          <!-- Freelance -->
           <details>
-            <summary><strong>2015-2021 | Engineering Foundations (Perú)</strong></summary>
-            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #2ecc71;">
+            <summary><strong>2023–2024 | Freelance Design Engineer – Independent (Arequipa, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #16a085;">
               <ul>
-                <li><strong>IMCO Servicios (2018-2021):</strong> Concurrent internships during undergraduate studies:
+                <li><strong>DEM Simulation:</strong> Optimized lime solids handling for Yura Cement Company</li>
+                <li><strong>Structural Design:</strong> Designed gantry and cantilever beams for mining crane systems (Caylloma Mining)</li>
+                <li><strong>Tooling:</strong> Developed specialized tools for Ferreyros CAT truck maintenance</li>
+                <li><strong>Industrial Facilities:</strong> Performed structural calculations for warehouses, roofing, and maintenance platforms</li>
+                <li><strong>Scaffolding Systems:</strong> Modeled and reported on ringlock scaffolding for maintenance operations</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- IMCO Supervisor -->
+          <details>
+            <summary><strong>2022–2023 | Engineering Supervisor – IMCO Services (Arequipa, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #c0392b;">
+              <ul>
+                <li><strong>Project Leadership:</strong> Directed platform design, feasibility, and interference analyses for 30-ton installations</li>
+                <li><strong>Heavy Structures:</strong> Executed calculations for pipe assemblies and steelwork (100 tonnes)</li>
+                <li><strong>API Tank:</strong> Led detailed engineering of a 60-ton API 650 tank for copper concentrate storage</li>
+                <li><strong>Team Coordination:</strong> Supervised multidisciplinary teams ensuring compliance with milestones</li>
+                <li><strong>Progress Tracking:</strong> Managed engineering databases, metrics, and reporting systems</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- IMCO Assistant -->
+          <details>
+            <summary><strong>2020–2022 | Engineering Assistant – IMCO Services (Arequipa, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #2980b9;">
+              <ul>
+                <li><strong>Project Coordination:</strong> Tracked schedules and supervised mechanical installations on-site</li>
+                <li><strong>Design:</strong> Produced 3D models and technical alternatives for scaffolding and steel structures</li>
+                <li><strong>Major Projects:</strong>
                   <ul>
-                    <li>Finite element analysis for mining structures (SAP2000/Inventor/Ansys fluent-Structural)</li>
-                    <li>CFD simulations improving processing plant efficiency by 12%</li>
+                    <li>50-ton gantry crane for autoclave transfer (70 tonnes)</li>
+                    <li>Industrial building with heavy-duty crane systems (500 tonnes)</li>
+                    <li>1.5M-gallon water storage tank for Southern Peru (186 tonnes)</li>
+                    <li>Conveyor structures (50 tonnes) and tailings chute (20 tonnes)</li>
+                    <li>Electrical rooms designed under AISC & UBC97 codes (300 tonnes)</li>
                   </ul>
                 </li>
-                <li><strong>Academic Excellence:</strong> Top-ranked mechanical engineering graduate (UNSA, 2019)</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- Internship -->
+          <details>
+            <summary><strong>2018–2020 | Mechanical Engineering Intern – IMCO Services (Arequipa, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #8e44ad;">
+              <ul>
+                <li><strong>Field Work:</strong> Supported site measurements, take-offs, and structural verifications</li>
+                <li><strong>Documentation:</strong> Prepared engineering progress reports and project records</li>
               </ul>
             </div>
           </details>
@@ -148,13 +186,15 @@ sections:
             <summary><strong>Academic Milestones</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
               <ul>
-                <li><strong>M.Sc. Advanced Precision Engineering</strong> (HFU, 2024-present)</li>
-                <li><strong>Postgrad. Machine Learning</strong> (UCSP, 2021-2022)</li>
-                <li><strong>B.Eng. Mechanical Engineering</strong> (UNSA, 2015-2019) with parallel industry training</li>
+                <li><strong>Diploma:</strong> ASME B31 – Piping Systems for Industrial Plants (DMIA, 2022)</li>
+                <li><strong>Diploma:</strong> Strategic Maintenance Management (TECSUP, 2021–2022)</li>
+                <li><strong>Certification:</strong> Certified Associate in Project Management (PMI, 2021)</li>
+                <li><strong>B.Eng. Mechanical Engineering</strong> (UNSA, 2019) – High Academic Standing</li>
+                <li>Student Mobility Scholarship (2019) – UNSA</li>
+                <li>Permanence Scholarship (2017) – PRONABEC</li>
               </ul>
             </div>
           </details>
-
         </div>
     design:
       columns: 2
@@ -227,10 +267,10 @@ sections:
       buttons:
         - text: E-mail
           icon: at-symbol
-          url: mailto:manuelcaipocc@outlook.com
+          url: mailto:frado.solis@gmail.com
         - text: Connect
           icon: brands/linkedin
-          url: https://www.linkedin.com/in/manuel-caipo-89845b151/
+          url: https://www.linkedin.com/in/franciscosolis/
     design:
       columns: 2
 

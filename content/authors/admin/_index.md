@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Manuel Caipo
+title: Francisco Solis
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Manuel
-last_name: Caipo
+first_name: Francisco
+last_name: Solis
 
 # Status emoji
 status:
@@ -20,16 +20,16 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Engineer-Scientist in Predictive Maintenance 
+role: Mechanical Engineer - Desing engineer 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Hochschule Furtwangen
-    url: https://www.hs-furtwangen.de/
+  #- name: Hochschule Furtwangen
+  #  url: https://www.hs-furtwangen.de/
   - name: Universidad Nacional de San Agustin de Arequipa
     url: https://www.unsa.edu.pe/
-  - name: Universidad Catolica San Pablo
-    url: https://ucsp.edu.pe/
+  #- name: Universidad Catolica San Pablo
+  #  url: https://ucsp.edu.pe/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,9 +38,9 @@ profiles:
   #url: 'manuelcaipocc@outlook.com'
   #label: E-mail me
   - icon: brands/github
-    url: https://github.com/manuelcaipocc
+    url: https://github.com/fradosolis
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/manuel-caipo-89845b151/
+    url: https://www.linkedin.com/in/franciscosolis/
   # - icon: brands/youtube
   #   url: https://www.youtube.com/channel/UCIozN1DVvgKYvNW-AKg-_dg/
   # - icon: academicons/google-scholar
@@ -54,35 +54,35 @@ interests:
   - Fusion of Data Science with Physical Modeling
 
 education:
-  - area: M.Sc. in Advanced Precision Engineering
-    institution: Hochschule Furtwangen
-    date_start: 2024-09-27
-    date_end: ''
-    summary: |
-      [Master of science](https://www.hs-furtwangen.de/studium/studiengaenge/advanced-precision-engineering-master).
+  # - area: M.Sc. in Advanced Precision Engineering
+  #   institution: Hochschule Furtwangen
+  #   date_start: 2024-09-27
+  #   date_end: ''
+  #   summary: |
+  #     [Master of science](https://www.hs-furtwangen.de/studium/studiengaenge/advanced-precision-engineering-master).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Diplom in Machine and deep Learning
-    institution: Universidad catolica san pablo
-    date_start: 2021-06-01
-    date_end: 2021-02-01
-    summary: |
-      GPA: 19.6/20.0
+  # - area: Diplom in Machine and deep Learning
+  #   institution: Universidad catolica san pablo
+  #   date_start: 2021-06-01
+  #   date_end: 2021-02-01
+  #   summary: |
+  #     GPA: 19.6/20.0
       
-    Courses included:
-      - Learn regression, classification, and clustering techniques
-      - Study probabilistic models like Naive Bayes and Bayesian Networks
-      - Master neural networks, including Transformer Models and  Convolutional Neural Networks
-      - Apply machine learning to natural language processing
-      - Explore deep learning for text and image processing
+    # Courses included:
+    #   - Learn regression, classification, and clustering techniques
+    #   - Study probabilistic models like Naive Bayes and Bayesian Networks
+    #   - Master neural networks, including Transformer Models and  Convolutional Neural Networks
+    #   - Apply machine learning to natural language processing
+    #   - Explore deep learning for text and image processing
 
   - area: B.Sc. in Mechanical Engineering
     institution: Universidad Nacional de San Agustin de Arequipa
     date_start: 2015-03-15
     date_end: 2019-12-15
     summary: |
-      GPA: 15.23/20.0
+      GPA: 15.0/20.0
 
       National Scholarship "Beca Presidente del Peru" Winner, ranking the first in the department for five consecutive years. 
       
@@ -93,76 +93,80 @@ education:
     - Solutions for machinery automation. 
     - Strong ethics and communication skills. 
 work:
-  - position: Data Scientist – Werkstudent
-    company_name: Bosch Rexroth
-    company_url: 'https://www.boschrexroth.com/'
-    company_logo: bosch
+  - position: Mechanical Engineer
+    company_name: EPCM Company
+    company_url: ''
+    company_logo: epcm
+    date_start: 2025-01-01
+    date_end: 2025-06-30
+    summary: |
+      • Supervised engineering calculations for belt conveyors, apron feeders, chutes, and steel structures.  
+      • Designed air extraction and injection systems to reduce dust emissions.  
+      • Selected mechanical equipment for port material handling and dispatch zone.  
+      • Prepared deliverables schedule and coordinated interdisciplinary planning.
+
+  - position: Mechanical Engineer
+    company_name: BYV IESEMIN Company
+    company_url: ''
+    company_logo: byv
     date_start: 2024-11-01
-    date_end: ''
+    date_end: 2024-12-31
     summary: |
-      • Designed and implemented an ETL pipeline in Docker for processing and storing industrial data in a data lake and relational database.  
-      • Integrated Solace as a message broker to optimize industrial data flow.  
-      • Developed a monitoring system for hydraulic systems to detect anomalies and analyze operating cycles.
+      • Performed structural analysis and mechanical verification of buildings supporting crushing equipment.  
+      • Designed support structures for vibrating screens and crushers.  
+      • Evaluated conveyor belt structures and compressed air tank installations.  
+      • Managed engineering documentation and schedules.
 
-  - position: Junior Data Science Analyst 2
-    company_name: Freeport-McMoRan – Cerro Verde
-    company_url: 'https://www.fcx.com/'
-    company_logo: freeport
-    date_start: 2021-04-01
-    date_end: 2023-07-31
+  - position: Design Engineer – Freelance
+    company_name: Independent
+    company_url: ''
+    company_logo: freelance
+    date_start: 2023-12-01
+    date_end: 2024-09-30
     summary: |
-      • Scaled predictive wear models across global mining sites using Azure ML Jobs for automated predictions.  
-      • Optimized data preprocessing using SQL stored procedures for efficient ML training.  
-      • Deployed retraining automation processes to continuously update models with historical machine data.
+      • Optimized Midwest sleeve for lime solids handling using DEM simulation (Yura Cement).  
+      • Designed gantry and cantilever beams for crane systems (Caylloma Mining).  
+      • Developed specialized maintenance tools for mining trucks (Ferreyros CAT).  
+      • Performed structural calculations for warehouses, roofing, and platforms.  
+      • Modeled scaffolding systems for maintenance operations.
 
-  - position: Junior Data Science Analyst 1
-    company_name: Freeport-McMoRan – Cerro Verde
-    company_url: 'https://www.fcx.com/'
-    company_logo: freeport
-    date_start: 2020-07-01
-    date_end: 2021-03-31
-    summary: |
-      • Deployed ML models for daily wear prediction of primary crushers and cyclone pumps using Azure ML.  
-      • Automated reporting systems to compare current machine states with historical performance data.
-
-  - position: Junior Data Analyst 1 – Reliability Engineering
-    company_name: Freeport-McMoRan – Cerro Verde
-    company_url: 'https://www.fcx.com/'
-    company_logo: freeport
-    date_start: 2020-01-01
-    date_end: 2020-06-30
-    summary: |
-      • Developed machine anomaly strategies based on historical failure analysis.  
-      • Created Power BI dashboards and reports for monitoring and decision-making.  
-      • Optimized SQL queries for faster data processing in maintenance analytics.
-
-  - position: Trainee Data Analyst – Reliability Engineering
-    company_name: Freeport-McMoRan – Cerro Verde
-    company_url: 'https://www.fcx.com/'
-    company_logo: freeport
-    date_start: 2019-07-01
-    date_end: 2019-12-31
-    summary: |
-      • Performed long-term analysis of equipment availability and operational patterns.  
-      • Focused on primary crushers, conveyors, cyclone pumps, ball mills, and HPGR systems.
-
-  - position: Junior Engineer – Technical and Development
-    company_name: IMCO Servicios S.A.C
+  - position: Engineering Supervisor
+    company_name: IMCO Services S.A.C.
     company_url: 'https://www.linkedin.com/company/imco-servicios-s-a-c/'
     company_logo: imco
-    date_start: 2020-08-01
-    date_end: 2021-03-31
+    date_start: 2022-06-01
+    date_end: 2023-11-30
     summary: |
-      • Created structural calculation reports using simulation software like SAP2000, Inventor, Ansys Structural - Fluent and AutoCAD 3D.
+      • Supervised platform designs, interference studies, and feasibility analyses (30 tonnes).  
+      • Executed structural calculations for pipe assemblies and steel installations (100 tonnes).  
+      • Reviewed engineering plans, fabrication drawings, and methodologies.  
+      • Coordinated with multidisciplinary teams to meet project milestones.  
+      • Led detailed engineering of an API 650 tank for copper concentrate storage (60 tonnes).  
+      • Managed engineering databases and project progress reports.
 
-  - position: Intern – Reliability Engineering
-    company_name: Freeport-McMoRan – Cerro Verde
-    company_url: 'https://www.fcx.com/'
-    company_logo: freeport
-    date_start: 2020-01-01
-    date_end: 2020-06-30
+  - position: Engineering Assistant
+    company_name: IMCO Services S.A.C.
+    company_url: 'https://www.linkedin.com/company/imco-servicios-s-a-c/'
+    company_logo: imco
+    date_start: 2020-05-01
+    date_end: 2022-05-31
     summary: |
-      • Optimized production processes using multiphysics CFD simulations with tools such as Ansys Structural, Fluent, Tekla, and Ametank.
+      • Tracked schedules and coordinated mechanical installations on-site.  
+      • Conducted structural calculations and provided technical design alternatives.  
+      • Produced 3D models and reports for scaffolding in maintenance projects.  
+      • Designed support structures for lifting equipment and components.  
+      • Engineered a 50-ton gantry crane and industrial building for heavy-duty cranes (500 tonnes).  
+      • Designed chutes, tanks, conveyor systems, and electrical rooms following codes.
+
+  - position: Mechanical Engineering Intern
+    company_name: IMCO Services S.A.C.
+    company_url: 'https://www.linkedin.com/company/imco-servicios-s-a-c/'
+    company_logo: imco
+    date_start: 2018-01-01
+    date_end: 2020-04-30
+    summary: |
+      • Assisted with on-site measurements, material take-offs, and structural verifications.  
+      • Prepared engineering progress reports and project documentation.  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
