@@ -37,7 +37,7 @@ sections:
     design:
       background:
         image:
-          filename: iot1.png
+          filename: Backcfd.png
           filters:
             brightness: 0.5
         text_color_light: true
