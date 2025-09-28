@@ -285,7 +285,7 @@ Conveyor systems, tanks, silos, and steel frameworks.
 - **Simulation & Analysis – FEM/DEM**
 Structural and material handling optimization.
 
--**Project & Safety Management**
+- **Project & Safety Management**
 Supervision, documentation, WHS/OHS compliance.
 
 - **Process Optimization**
