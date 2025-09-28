@@ -49,9 +49,9 @@ profiles:
     url: uploads/resume.pdf
 
 interests:
-  - Smart Systems for Industrial Engineering and Robotics
-  - Technical Software Architecture & Data Automation for Industry 4.0
-  - Fusion of Data Science with Physical Modeling
+  - Integration of BIM with FEM/DEM Simulation
+  - Maintenance Management & Reliability Engineering
+  - Automation & Industry 4.0 Applications
 
 education:
   # - area: M.Sc. in Advanced Precision Engineering
@@ -244,7 +244,7 @@ work:
 
 ## About Me
 
-I’m a Data Scientist and Mechanical Engineer, currently pursuing a Master’s degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen](https://www.hs-furtwangen.de/) in Germany.
+<!-- I’m a Data Scientist and Mechanical Engineer, currently pursuing a Master’s degree in [Advanced Precision Engineering](https://www.hs-furtwangen.de/studiengang/advanced-precision-engineering-master/) at [Hochschule Furtwangen](https://www.hs-furtwangen.de/) in Germany.
 
 Alongside my academic journey, I work at [Bosch Rexroth](https://www.boschrexroth.com/), where I design and implement **Docker-based ETL pipelines** and **real-time monitoring systems** for hydraulic systems. My role focuses on connecting physical systems with intelligent software solutions, contributing to the future of industrial automation.
 
@@ -255,18 +255,43 @@ Later, I was selected as one of 100 finalists out of 16,000 applicants to join [
 My work bridges engineering and intelligent systems, with a strong emphasis on practical implementation and scalable solutions. I specialize in:
 
 - **Machine Learning & Time-Series Modeling**  
-  Predictive maintenance, anomaly detection, and signal analysis using Python, PyTorch, and scikit-learn.
+Predictive maintenance, anomaly detection, and signal analysis using Python, PyTorch, and scikit-learn.
 
 - **Dockerized ETL Pipelines & Cloud Integration**  
-  Modular, real-time data pipelines built with Dagster, orchestrated in Docker, and deployed on cloud platforms like Azure.
+Modular, real-time data pipelines built with Dagster, orchestrated in Docker, and deployed on cloud platforms like Azure.
 
 - **Industrial Communication & Monitoring (OPC UA)**  
-  Design and implementation of robust monitoring architectures using OPC UA for data acquisition in manufacturing systems.
+Design and implementation of robust monitoring architectures using OPC UA for data acquisition in manufacturing systems.
 
 - **Technology Stack**  
-  Python, PostgreSQL, Power BI/Grafana, Git, Azure ML — integrated into reliable and reproducible workflows.
+Python, PostgreSQL, Power BI/Grafana, Git, Azure ML — integrated into reliable and reproducible workflows.
 
 
 I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developing impactful technologies that bridge data and physical systems.
 
-<small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small>
+<small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small> -->
+
+I’m a Mechanical Engineer with over 5 years of experience in engineering design, project supervision, and maintenance management within the mining and industrial sectors. My background combines strong technical expertise in structural and mechanical design, conveyor systems, material handling, and industrial facilities with proven leadership in project coordination and client communication.
+
+I graduated in Mechanical Engineering from Universidad Nacional de San Agustín de Arequipa (UNSA), earning high academic distinction and multiple national scholarships for academic excellence.
+
+Throughout my career, I have contributed to large-scale mining and industrial projects across Peru, including the design and validation of belt conveyors, API tanks, structural frameworks, and heavy-duty cranes, as well as the supervision of material handling and port facilities. My work has consistently focused on optimizing resources, ensuring compliance with international standards (ASME, API, AISC, AS), and improving project efficiency through process automation and workflow optimization.
+
+I specialize in:
+
+- **Mechanical & Structural Design**
+Conveyor systems, tanks, silos, and steel frameworks.
+
+- **Simulation & Analysis – FEM/DEM**
+Structural and material handling optimization.
+
+-**Project & Safety Management**
+Supervision, documentation, WHS/OHS compliance.
+
+- **Process Optimization**
+Development of macros and tools to reduce downtime and design cycles.
+
+- **Technology Stack**
+AutoCAD, SolidWorks, NX, SAP2000, ANSYS, FEM/DEM Simulation, Project Management Tools.
+
+I am passionate about bridging engineering with smart systems, driving innovation in mining, industrial automation, and sustainable infrastructure. Looking ahead, I aim to expand my expertise into advanced engineering design and Industry 4.0 applications, contributing to projects that integrate mechanical engineering with data-driven decision-making.
