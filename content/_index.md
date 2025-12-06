@@ -98,7 +98,6 @@ sections:
 
         <div> 
           <!-- EPCM Company -->
-          <details open>
           <details>
             <summary><strong>2025 | Project Mechanical Engineer – EPCM Company</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
@@ -163,7 +162,7 @@ sections:
 
 
           <!-- Education -->
-          <details open>
+          <details>
             <summary><strong>Academic Milestones</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
               <ul>
