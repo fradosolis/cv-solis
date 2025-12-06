@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mechanical Engineer - Desing engineer 
+role: Mechanical Engineer 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -276,8 +276,6 @@ I’m a Mechanical Engineer delivering high-impact, professional solutions in th
 I began my engineering path in Peru, where I trained as a Mechanical Engineer at the Universidad Nacional de San Agustín de Arequipa (UNSA), graduating with an outstanding academic ranking that laid a strong foundation for my technical expertise. From the start, I was drawn to projects that combined complex operational challenges with the need for practical, reliable engineering solutions.
 
 My professional journey has taken me through high-impact industrial and mining projects for globally recognised companies such as Freeport-McMoRan, Chinalco Mining Corporation, Southern Copper Corporation, and Anglo American. In these roles, I translated operational requirements into engineered solutions across material-handling systems, structural frameworks, and industrial infrastructure. This experience strengthened my skills in advanced FEM/DEM simulation, detailed design, and multidisciplinary coordination, always emphasizing safety, constructability, and efficiency.
-
-I have led mechanical and structural design tasks, developed engineering calculations, and optimized material-handling systems through advanced modeling and analysis. My work also includes technical reviews, field support, and coordination to ensure compliance with standards, schedules, and multidisciplinary requirements. I consistently collaborate with clients, supervisors, and contractors to resolve technical issues, validate specifications, and enhance system performance. My approach is based on continuous improvement, clear communication, and well-reasoned decision-making.
 
 I specialize in:
 
