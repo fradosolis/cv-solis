@@ -99,7 +99,7 @@ sections:
         <div> 
           <!-- EPCM Company -->
           <details open>
-            <summary><strong>2025 | Project Mechanical Engineer – EPCM Company (Lima, Peru)</strong></summary>
+            <summary><strong>2025 | Project Mechanical Engineer – EPCM Company</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
               <ul>
                 <li><strong>Material Handling Systems:</strong> Validated engineering calculations for belt conveyors, apron feeders, chutes, and steel structures, enhancing reliability and constructability</li>
@@ -112,7 +112,7 @@ sections:
 
           <!-- BYV IESEMIN Company -->
           <details>
-            <summary><strong>2024 | Mechanical Engineer – BYV IESEMIN Company (Lima, Peru)</strong></summary>
+            <summary><strong>2024 | Mechanical Engineer – BYV IESEMIN Company</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #e67e22;">
               <ul>
                 <li><strong>Structural Analysis:</strong> Developed engineering calculations for conveyors, feeders, chutes, and steel structures ensuring accuracy and constructability</li>
@@ -124,7 +124,7 @@ sections:
 
           <!-- Freelance -->
           <details>
-            <summary><strong>2023–2024 | Freelance Design Engineer – Independent (Arequipa, Peru)</strong></summary>
+            <summary><strong>2024 | Freelance Design Engineer – Independent</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #16a085;">
               <ul>
                 <li><strong>DEM Simulation:</strong> Optimized material-handling components (Midwest sleeve) for Yura Cement Company</li>
@@ -137,7 +137,7 @@ sections:
 
           <!-- BISA -->
           <details>
-            <summary><strong>2023–2024 | Mechanical Design Engineer – BISA (Lima, Peru)</strong></summary>
+            <summary><strong>2023 | Mechanical Design Engineer – BISA</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
               <ul>
                 <li><strong>Tank & Equipment Design:</strong> Designed and calculated API 650 tanks, compressed air tanks, and mechanical equipment for assembly</li>
@@ -149,7 +149,7 @@ sections:
 
           <!-- IMCO Services -->
           <details>
-            <summary><strong>2018–2023 | Engineering Supervisor & Junior Engineer – IMCO Services (Arequipa, Peru)</strong></summary>
+            <summary><strong>2018–2023 | Engineering Supervisor & Junior Engineer – IMCO Services</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #c0392b;">
               <ul>
                 <li><strong>Project Leadership:</strong> Supervised platform designs, interference studies, and feasibility analyses; led detailed engineering of API 650 tank for copper concentrate storage</li>
