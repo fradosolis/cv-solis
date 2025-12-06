@@ -49,9 +49,9 @@ profiles:
     url: uploads/resume.pdf
 
 interests:
-  - Integration of BIM with FEM/DEM Simulation
-  - Maintenance Management & Reliability Engineering
-  - Automation & Industry 4.0 Applications
+  - Advanced computational engineering & digital simulation technologies
+  - Smart industrial systems, automation, and high-efficiency material-handling solutions
+  - Smart industrial systems, automation, and high-efficiency material-handling solutions
 
 education:
   # - area: M.Sc. in Advanced Precision Engineering
@@ -271,27 +271,29 @@ I aim to pursue a Ph.D. in Robotics, Control Systems, or Industrial AI, developi
 
 <small><a href="https://manuelcaipocc.goatcounter.com/" target="_blank" style="color: rgba(0, 0, 0, 0.1); text-decoration: none;">Analytics</a></small> -->
 
-I’m a Mechanical Engineer with over 5 years of experience in engineering design, project supervision, and maintenance management within the mining and industrial sectors. My background combines strong technical expertise in structural and mechanical design, conveyor systems, material handling, and industrial facilities with proven leadership in project coordination and client communication.
+I’m a Mechanical Engineer delivering high-impact, professional solutions in the design, maintenance, and optimization of industrial and mining equipment.
 
-I graduated in Mechanical Engineering from Universidad Nacional de San Agustín de Arequipa (UNSA), earning high academic distinction and multiple national scholarships for academic excellence.
+I began my engineering path in Peru, where I trained as a Mechanical Engineer at the Universidad Nacional de San Agustín de Arequipa (UNSA), graduating with an outstanding academic ranking that laid a strong foundation for my technical expertise. From the start, I was drawn to projects that combined complex operational challenges with the need for practical, reliable engineering solutions.
 
-Throughout my career, I have contributed to large-scale mining and industrial projects across Peru, including the design and validation of belt conveyors, API tanks, structural frameworks, and heavy-duty cranes, as well as the supervision of material handling and port facilities. My work has consistently focused on optimizing resources, ensuring compliance with international standards (ASME, API, AISC, AS), and improving project efficiency through process automation and workflow optimization.
+My professional journey has taken me through high-impact industrial and mining projects for globally recognised companies such as Freeport-McMoRan, Chinalco Mining Corporation, Southern Copper Corporation, and Anglo American. In these roles, I translated operational requirements into engineered solutions across material-handling systems, structural frameworks, and industrial infrastructure. This experience strengthened my skills in advanced FEM/DEM simulation, detailed design, and multidisciplinary coordination, always emphasizing safety, constructability, and efficiency.
+
+I have led mechanical and structural design tasks, developed engineering calculations, and optimized material-handling systems through advanced modeling and analysis. My work also includes technical reviews, field support, and coordination to ensure compliance with standards, schedules, and multidisciplinary requirements. I consistently collaborate with clients, supervisors, and contractors to resolve technical issues, validate specifications, and enhance system performance. My approach is based on continuous improvement, clear communication, and well-reasoned decision-making.
 
 I specialize in:
 
 - **Mechanical & Structural Design**
-Conveyor systems, tanks, silos, and steel frameworks.
+Design and verification of conveyor systems, tanks, silos, feeders, chutes, and steel frameworks.
 
 - **Simulation & Analysis – FEM/DEM**
-Structural and material handling optimization.
+Structural assessment and material-handling optimization through numerical modeling.
 
 - **Project & Safety Management**
-Supervision, documentation, WHS/OHS compliance.
+Supervision, construction support, documentation control, and WHS/OHS compliance.
 
 - **Process Optimization**
-Development of macros and tools to reduce downtime and design cycles.
+Development of tools, macros, and workflows to reduce design cycles and operational downtime.
 
 - **Technology Stack**
-AutoCAD, SolidWorks, NX, SAP2000, ANSYS, FEM/DEM Simulation, Project Management Tools.
+AutoCAD, SolidWorks, Siemens NX, SAP2000, ANSYS, FEM/DEM simulation tools, and project-management platforms.
 
-I am passionate about bridging engineering with smart systems, driving innovation in mining, industrial automation, and sustainable infrastructure. Looking ahead, I aim to expand my expertise into advanced engineering design and Industry 4.0 applications, contributing to projects that integrate mechanical engineering with data-driven decision-making.
+I’m committed to delivering solutions that add measurable value and strengthen operational performance. I am also open to considering other positions that you believe align better with my skills, experience, and potential to contribute.
