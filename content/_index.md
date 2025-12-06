@@ -12,7 +12,7 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: <br/><br/>BIM-Driven Engineering | Intelligent Maintenanceee
+      title: <br/><br/>BIM-Driven Engineering Intelligent Maintenanceee
     design:
       background:
         image:
