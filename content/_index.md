@@ -149,7 +149,7 @@ sections:
 
           <!-- IMCO Services -->
           <details>
-            <summary><strong>2018–2023 | Engineering Supervisor – IMCO Services</strong></summary>
+            <summary><strong>2018–2023 | Engineering Supervisor / Junior engineer  – IMCO Services</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #c0392b;">
               <ul>
                 <li><strong>Project Leadership:</strong> Supervised platform designs, interference studies, and feasibility analyses; led detailed engineering of API 650 tank for copper concentrate storage</li>
@@ -161,14 +161,17 @@ sections:
           </details>
 
 
-          <!-- Education -->
+          <!-- Milestones -->
           <details>
-            <summary><strong>Academic Milestones</strong></summary>
+            <summary><strong>Milestones</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
               <ul>
-                <li><strong>Bachelor - Mechanical Engineering</strong> (UNSA, 2019) – Top 5% | Thesis: Mechanical and structural design of a 420 TPH conveyor belt verified with DEM</li>
-                <li><strong>Diploma:</strong> Steel Structure Design and Analysis (CINGCIVIL, 2020) – Top 5%</li>
-                <li><strong>Advanced Specialization:</strong> Strategic Maintenance Management (TECSUP, 2022) – Top 5%</li>
+                <li>Ensured project investments were met by closely monitoring progress and maintaining direct client communication.</li>
+                <li>Reduced scaffolding modelling, calculation, and valuation times, minimizing equipment downtime through macro development.</li>
+                <li>Automated material search and processing for engineering requirements, improving efficiency via macro-based tools.</li>
+                <li>Proposed optimization for an industrial warehouse that reduced steel consumption by 50 tons.</li>
+                <li>2017 Presidential Scholarship of the Republic of Peru – Full scholarship awarded for academic excellence (Top 5%).</li>
+                <li>2019 Research Scholarship – SERESSA 2019, Spain: 15th International School on Radiation Effects.</li>
               </ul>
             </div>
           </details>
