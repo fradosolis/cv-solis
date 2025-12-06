@@ -77,96 +77,83 @@ education:
     #   - Apply machine learning to natural language processing
     #   - Explore deep learning for text and image processing
 
-  - area: B.Sc. in Mechanical Engineering
-    institution: Universidad Nacional de San Agustin de Arequipa
-    date_start: 2015-03-15
-    date_end: 2019-12-15
-    summary: |
-      GPA: 15.0/20.0
+- area: B.Sc. in Mechanical Engineering
+  institution: Universidad Nacional de San Agustín de Arequipa
+  date_start: 2015-03-15
+  date_end: 2019-12-15
+  summary: |
+    GPA: 15.0/20.0
 
-      National Scholarship "Beca Presidente del Peru" Winner, ranking the first in the department for five consecutive years. 
-      
-    Courses included:
-    - Skilled in mechanical and structural design. 
-    - Optimization of fluid and hydraulic machinery. 
-    - Advanced knowledge in physics and calculations. 
-    - Solutions for machinery automation. 
-    - Strong ethics and communication skills. 
+    National Scholarship "Beca Presidente del Peru" Winner, ranking first in the department for five consecutive years.
+    
+  Courses included:
+    - Skilled in mechanical and structural design
+    - Optimization of fluid and hydraulic machinery
+    - Advanced knowledge in physics and calculations
+    - Solutions for machinery automation
+    - Strong ethics and communication skills
+
 work:
-  - position: Mechanical Engineer
+  - position: Project Mechanical Engineer
     company_name: EPCM Company
     company_url: ''
     company_logo: epcm
     date_start: 2025-01-01
     date_end: 2025-06-30
     summary: |
-      • Supervised engineering calculations for belt conveyors, apron feeders, chutes, and steel structures.  
-      • Designed air extraction and injection systems to reduce dust emissions.  
-      • Selected mechanical equipment for port material handling and dispatch zone.  
-      • Prepared deliverables schedule and coordinated interdisciplinary planning.
+      • Validated engineering calculations for belt conveyors, apron feeders, chutes, and steel structures, enhancing reliability and constructability  
+      • Designed and implemented air extraction and injection systems to control dust emissions  
+      • Selected mechanical equipment for port material handling and dispatch zones  
+      • Prepared deliverables schedule and coordinated interdisciplinary planning for Zafranal mining project
 
   - position: Mechanical Engineer
     company_name: BYV IESEMIN Company
     company_url: ''
     company_logo: byv
-    date_start: 2024-11-01
-    date_end: 2024-12-31
+    date_start: 2024-07-01
+    date_end: 2025-01-31
     summary: |
-      • Performed structural analysis and mechanical verification of buildings supporting crushing equipment.  
-      • Designed support structures for vibrating screens and crushers.  
-      • Evaluated conveyor belt structures and compressed air tank installations.  
-      • Managed engineering documentation and schedules.
+      • Developed engineering calculations for conveyors, feeders, chutes, and steel structures, ensuring accuracy and constructability  
+      • Designed dust control systems and selected mechanical equipment for material handling and dispatch zones  
+      • Coordinated engineering deliverables and interdisciplinary planning for Catalina Huanca concentrator plant expansion
 
   - position: Design Engineer – Freelance
     company_name: Independent
     company_url: ''
     company_logo: freelance
-    date_start: 2023-12-01
-    date_end: 2024-09-30
+    date_start: 2024-05-01
+    date_end: 2024-07-31
     summary: |
-      • Optimized Midwest sleeve for lime solids handling using DEM simulation (Yura Cement).  
-      • Designed gantry and cantilever beams for crane systems (Caylloma Mining).  
-      • Developed specialized maintenance tools for mining trucks (Ferreyros CAT).  
-      • Performed structural calculations for warehouses, roofing, and platforms.  
-      • Modeled scaffolding systems for maintenance operations.
+      • Optimized material-handling components (Midwest sleeve) using DEM simulation for Yura Cement Company  
+      • Designed gantry and cantilever beams for crane systems (Caylloma Mining)  
+      • Developed specialized maintenance tools for mining trucks (Ferreyros CAT)  
+      • Performed structural calculations for warehouses, roofing, platforms, and scaffolding  
+      • Delivered 3D modeling and technical reporting for industrial operations
+
+  - position: Mechanical Design Engineer
+    company_name: BISA
+    company_url: ''
+    company_logo: bisa
+    date_start: 2023-12-01
+    date_end: 2024-04-30
+    summary: |
+      • Designed and calculated tanks (API 650, compressed air) and mechanical equipment/tools for assembly  
+      • Performed mechanical calculations for feeders, hoppers, and conveyors  
+      • Supervised basic engineering activities during Toromocho Expansion Phase II – Chinalco mining project
 
   - position: Engineering Supervisor
     company_name: IMCO Services S.A.C.
     company_url: 'https://www.linkedin.com/company/imco-servicios-s-a-c/'
     company_logo: imco
-    date_start: 2022-06-01
+    date_start: 2018-01-01
     date_end: 2023-11-30
     summary: |
-      • Supervised platform designs, interference studies, and feasibility analyses (30 tonnes).  
-      • Executed structural calculations for pipe assemblies and steel installations (100 tonnes).  
-      • Reviewed engineering plans, fabrication drawings, and methodologies.  
-      • Coordinated with multidisciplinary teams to meet project milestones.  
-      • Led detailed engineering of an API 650 tank for copper concentrate storage (60 tonnes).  
-      • Managed engineering databases and project progress reports.
+      • Supervised platform designs, interference studies, and feasibility analyses; executed structural calculations for piping and steel installations  
+      • Reviewed and validated engineering plans, drawings, and installation methodologies  
+      • Led detailed engineering of an API 650 tank for copper concentrate storage  
+      • Coordinated multidisciplinary teams, managed engineering databases, tracked progress, and generated status reports  
+      • Engineered gantry cranes, industrial buildings with heavy-duty cranes, conveyor systems, chutes, and water storage tanks following AISC & UBC97 codes
 
-  - position: Engineering Assistant
-    company_name: IMCO Services S.A.C.
-    company_url: 'https://www.linkedin.com/company/imco-servicios-s-a-c/'
-    company_logo: imco
-    date_start: 2020-05-01
-    date_end: 2022-05-31
-    summary: |
-      • Tracked schedules and coordinated mechanical installations on-site.  
-      • Conducted structural calculations and provided technical design alternatives.  
-      • Produced 3D models and reports for scaffolding in maintenance projects.  
-      • Designed support structures for lifting equipment and components.  
-      • Engineered a 50-ton gantry crane and industrial building for heavy-duty cranes (500 tonnes).  
-      • Designed chutes, tanks, conveyor systems, and electrical rooms following codes.
-
-  - position: Mechanical Engineering Intern
-    company_name: IMCO Services S.A.C.
-    company_url: 'https://www.linkedin.com/company/imco-servicios-s-a-c/'
-    company_logo: imco
-    date_start: 2018-01-01
-    date_end: 2020-04-30
-    summary: |
-      • Assisted with on-site measurements, material take-offs, and structural verifications.  
-      • Prepared engineering progress reports and project documentation.  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
