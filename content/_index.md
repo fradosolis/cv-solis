@@ -137,7 +137,7 @@ sections:
 
           <!-- BISA -->
           <details>
-            <summary><strong>2023 | Mechanical Design Engineer – BISA</strong></summary>
+            <summary><strong>2023 | Mechanical Design Engineer – BISA Company</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
               <ul>
                 <li><strong>Tank & Equipment Design:</strong> Designed and calculated API 650 tanks, compressed air tanks, and mechanical equipment for assembly</li>
@@ -149,7 +149,7 @@ sections:
 
           <!-- IMCO Services -->
           <details>
-            <summary><strong>2018–2023 | Engineering Supervisor & Junior Engineer – IMCO Services</strong></summary>
+            <summary><strong>2018–2023 | Engineering Supervisor – IMCO Services</strong></summary>
             <div style="margin-left:6px; padding-left:20px; border-left:1px solid #c0392b;">
               <ul>
                 <li><strong>Project Leadership:</strong> Supervised platform designs, interference studies, and feasibility analyses; led detailed engineering of API 650 tank for copper concentrate storage</li>
