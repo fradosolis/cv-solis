@@ -84,7 +84,7 @@ education:
   summary: |
     GPA: 15.0/20.0
 
-    National Scholarship "Beca Presidente del Peru" Winner, ranking first in the department for five consecutive years.
+    National Scholarship "Beca Presidente del Peru" Winner, one of the top students in the department for five consecutive years.
     
   Courses included:
     - Skilled in mechanical and structural design
@@ -92,6 +92,20 @@ education:
     - Advanced knowledge in physics and calculations
     - Solutions for machinery automation
     - Strong ethics and communication skills
+
+- area: Diploma in Steel Structure Design and Analysis
+  institution: CINGCIVIL Institute
+  date_start: 2020-01-15
+  date_end: 2020-07-15
+  summary: |
+    GPA: 19.0/20.0
+
+- area: Advanced Specialization Program in Strategic Maintenance Management
+  institution: TECSUP institute
+  date_start: 2021-07-15
+  date_end: 2022-05-15
+  summary: |
+    GPA: 19.0/20.0
 
 work:
   - position: Project Mechanical Engineer
@@ -117,8 +131,8 @@ work:
       • Designed dust control systems and selected mechanical equipment for material handling and dispatch zones  
       • Coordinated engineering deliverables and interdisciplinary planning for Catalina Huanca concentrator plant expansion
 
-  - position: Design Engineer – Freelance
-    company_name: Independent
+  - position: Design Engineer
+    company_name: Freelance
     company_url: ''
     company_logo: freelance
     date_start: 2024-05-01
@@ -131,7 +145,7 @@ work:
       • Delivered 3D modeling and technical reporting for industrial operations
 
   - position: Mechanical Design Engineer
-    company_name: BISA
+    company_name: BISA Company
     company_url: ''
     company_logo: bisa
     date_start: 2023-12-01
