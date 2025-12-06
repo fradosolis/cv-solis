@@ -49,9 +49,9 @@ profiles:
     url: uploads/resume.pdf
 
 interests:
-  - Advanced computational engineering & digital simulation technologies
-  - Smart industrial systems, automation, and high-efficiency material-handling solutions
-  - Smart industrial systems, automation, and high-efficiency material-handling solutions
+  - Advanced computational engineering & digital simulation technologies.
+  - Smart industrial systems, automation, and high-efficiency material-handling solutions.
+  - Smart industrial systems, automation, and high-efficiency material-handling solutions.
 
 education:
   # - area: M.Sc. in Advanced Precision Engineering
@@ -77,8 +77,8 @@ education:
     #   - Apply machine learning to natural language processing
     #   - Explore deep learning for text and image processing
 
-- area: B.Sc. in Mechanical Engineering
-  institution: Universidad Nacional de San Agustín de Arequipa
+- area: B.Sc. in Mechanical Engineering.
+  institution: Universidad Nacional de San Agustín de Arequipa.
   date_start: 2015-03-15
   date_end: 2019-12-15
   summary: |
@@ -93,15 +93,15 @@ education:
     - Solutions for machinery automation
     - Strong ethics and communication skills
 
-- area: Diploma in Steel Structure Design and Analysis
-  institution: CINGCIVIL Institute
+- area: Diploma in Steel Structure Design and Analysis.
+  institution: CINGCIVIL Institute.
   date_start: 2020-01-15
   date_end: 2020-07-15
   summary: |
     GPA: 19.0/20.0
 
-- area: Advanced Specialization Program in Strategic Maintenance Management
-  institution: TECSUP institute
+- area: Advanced Specialization Program in Strategic Maintenance Management.
+  institution: TECSUP institute.
   date_start: 2021-07-15
   date_end: 2022-05-15
   summary: |
@@ -155,7 +155,7 @@ work:
       • Performed mechanical calculations for feeders, hoppers, and conveyors  
       • Supervised basic engineering activities during Toromocho Expansion Phase II – Chinalco mining project
 
-  - position: Engineering Supervisor
+  - position: Engineering Supervisor / Junior engineer
     company_name: IMCO Services S.A.C.
     company_url: 'https://www.linkedin.com/company/imco-servicios-s-a-c/'
     company_logo: imco
