@@ -95,6 +95,95 @@ sections:
     content:
       title: Professional Journey
       text: |-
+
+        <div> 
+          <!-- EPCM Company -->
+          <details open>
+            <summary><strong>2025 | Project Mechanical Engineer – EPCM Company (Lima, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #3498db;">
+              <ul>
+                <li><strong>Material Handling Systems:</strong> Validated engineering calculations for belt conveyors, apron feeders, chutes, and steel structures, enhancing reliability and constructability</li>
+                <li><strong>Dust Control:</strong> Designed and implemented air extraction and injection systems to improve operational safety</li>
+                <li><strong>Equipment Selection:</strong> Defined mechanical equipment for material handling and dispatch zones</li>
+                <li><strong>Planning & Coordination:</strong> Prepared engineering deliverables schedules and coordinated interdisciplinary planning for Zafranal’s copper concentrate facility</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- BYV IESEMIN Company -->
+          <details>
+            <summary><strong>2024 | Mechanical Engineer – BYV IESEMIN Company (Lima, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #e67e22;">
+              <ul>
+                <li><strong>Structural Analysis:</strong> Developed engineering calculations for conveyors, feeders, chutes, and steel structures ensuring accuracy and constructability</li>
+                <li><strong>Dust Control & Equipment Selection:</strong> Designed dust control systems and selected mechanical equipment for material handling and dispatch zones</li>
+                <li><strong>Project Coordination:</strong> Managed engineering deliverables and interdisciplinary planning to maintain schedule alignment</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- Freelance -->
+          <details>
+            <summary><strong>2023–2024 | Freelance Design Engineer – Independent (Arequipa, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #16a085;">
+              <ul>
+                <li><strong>DEM Simulation:</strong> Optimized material-handling components (Midwest sleeve) for Yura Cement Company</li>
+                <li><strong>Structural Design:</strong> Designed gantry and cantilever beams for mining crane systems (Caylloma Mining)</li>
+                <li><strong>Tooling Development:</strong> Created specialized maintenance tools for Ferreyros CAT</li>
+                <li><strong>Industrial Facilities:</strong> Performed structural calculations for warehouses, metal roofing, maintenance platforms, and ringlock scaffolding</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- BISA -->
+          <details>
+            <summary><strong>2023–2024 | Mechanical Design Engineer – BISA (Lima, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
+              <ul>
+                <li><strong>Tank & Equipment Design:</strong> Designed and calculated API 650 tanks, compressed air tanks, and mechanical equipment for assembly</li>
+                <li><strong>Conveyors & Feeders:</strong> Performed mechanical calculations for feeders, hoppers, and conveyor systems</li>
+                <li><strong>Engineering Supervision:</strong> Oversaw basic engineering activities and technical compliance</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- IMCO Services -->
+          <details>
+            <summary><strong>2018–2023 | Engineering Supervisor & Junior Engineer – IMCO Services (Arequipa, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #c0392b;">
+              <ul>
+                <li><strong>Project Leadership:</strong> Supervised platform designs, interference studies, and feasibility analyses; led detailed engineering of API 650 tank for copper concentrate storage</li>
+                <li><strong>Structural Calculations:</strong> Pipe assemblies, steel installations, conveyor systems, tailings chutes, and water storage tanks (1.5M gallons)</li>
+                <li><strong>Design & On-site Support:</strong> Engineered gantry cranes, industrial buildings with heavy-duty cranes, electrical rooms, and scaffolding structures under AISC & UBC97 codes</li>
+                <li><strong>Team & Progress Management:</strong> Coordinated multidisciplinary teams, managed engineering databases, tracked progress, and produced reports</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- Internship -->
+          <details>
+            <summary><strong>2018–2020 | Mechanical Engineering Intern – IMCO Services (Arequipa, Peru)</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #8e44ad;">
+              <ul>
+                <li><strong>Field Work:</strong> Supported site measurements, take-offs, and structural verifications</li>
+                <li><strong>Documentation:</strong> Prepared engineering progress reports and project records</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- Education -->
+          <details>
+            <summary><strong>Academic Milestones</strong></summary>
+            <div style="margin-left:6px; padding-left:20px; border-left:1px solid #9b59b6;">
+              <ul>
+                <li><strong>Bachelor - Mechanical Engineering</strong> (UNSA, 2019) – Top 5% | Thesis: Mechanical and structural design of a 420 TPH conveyor belt verified with DEM</li>
+                <li><strong>Diploma:</strong> Steel Structure Design and Analysis (CINGCIVIL, 2020) – Top 5%</li>
+                <li><strong>Advanced Specialization:</strong> Strategic Maintenance Management (TECSUP, 2022) – Top 5%</li>
+              </ul>
+            </div>
+          </details>
+        </div>
+
         <div>
           <!-- Current Role -->
           <details open>
