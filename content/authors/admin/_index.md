@@ -51,7 +51,7 @@ profiles:
 interests:
   - Advanced computational engineering & digital simulation technologies.
   - Smart industrial systems, automation, and high-efficiency material-handling solutions.
-  - Smart industrial systems, automation, and high-efficiency material-handling solutions.
+  - Future-driven engineering innovation focused on sustainability and operational performance.
 
 education:
   # - area: M.Sc. in Advanced Precision Engineering
