@@ -1,8 +1,8 @@
 ---
-title: 'Dynamic Modeling and Control of a 5-DoF SCARA Robot using MATLAB and ROS2'
+title: 'Capacity Upgrade of the Midwest MG50 Sleeve, Increasing Material Throughput from 1,800 to 2,000 TPH'
 
 authors:
-  - Manuel Caipo
+  - Francisco Solis
   - admin
 
 author_notes:
@@ -13,11 +13,11 @@ date: '2025-06-26T00:00:00Z'
 publishDate: '2025-06-26T00:00:00Z'
 doi: ''
 publication_types: ['technicalReport']
-publication: In *Hochschule Furtwangen – Robotik*
+publication: Mechanical Design*
 publication_short: In *HFU Robotik*
 
 abstract: >
-  This technical report presents the complete symbolic modeling and dynamic analysis of a custom-designed SCARA robot with five degrees of freedom. The project includes the development of forward and inverse kinematics, Jacobian matrices, singularity analysis, and Lagrangian dynamics under realistic motion profiles. MATLAB and Python scripts are provided for symbolic computation and numerical evaluation, while ROS2 integration supports simulation and motion planning.
+  Optimization of the MIDWEST MG50 loading sleeve to increase capacity from 1800 to 2000 MTPH, including DEM-based flow analysis evaluating five geometric configurations, assessment of impact forces and wear patterns, verification of structural components (lifting lugs, lifting tube, pulley support), and confirmation of operational safety with a required power of 18 HP against the installed 20 HP.
 
 summary: Symbolic and numerical dynamic modeling of a SCARA robot with ROS2 and MATLAB integration.
 
