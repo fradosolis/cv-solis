@@ -1,8 +1,8 @@
 ---
-title: 'Capacity Upgrade of the Midwest MG50 Sleeve, Increasing Material Throughput from 1,800 to 2,000 TPH'
+title: 'Capacity Upgrade of the Midwest MG50 Bulk Loading Spout, Increasing Material Throughput from 1,800 to 2,000 TPH'
 
 authors:
-  - Francisco Solis
+#  - Francisco Solis
   - admin
 
 author_notes:
