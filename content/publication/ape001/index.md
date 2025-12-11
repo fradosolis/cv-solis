@@ -21,7 +21,7 @@ abstract: >
 
 summary: Validated a capacity upgrade of the MG50 spout to 2,000 TPH through optimized cone geometry and DEM-based performance analysis.
 
-featured: true
+#featured: true
 
 url_pdf: 'https://zenodo.org/records/15852916'
 #url_code: 'https://github.com/manuelcaipocc/scara-robot-ros-simulation'
