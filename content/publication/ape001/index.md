@@ -24,7 +24,7 @@ summary: Validated a capacity upgrade of the MG50 spout to 2,000 TPH through opt
 featured: true
 
 url_pdf: 'https://zenodo.org/records/15852916'
-url_code: 'https://github.com/manuelcaipocc/scara-robot-ros-simulation'
+#url_code: 'https://github.com/manuelcaipocc/scara-robot-ros-simulation'
 url_video: 'https://youtu.be/3KK3Hs1eWqU'
 
 image:
