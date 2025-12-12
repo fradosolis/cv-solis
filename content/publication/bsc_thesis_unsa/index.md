@@ -31,6 +31,9 @@ featured: true
 url_pdf: 'https://drive.google.com/file/d/1dtG1AEV4ZBJ1hybKI0Gr5FDg1_FuDlbr/view?usp=sharing'
 
 url_poster: 'https://alicia.concytec.gob.pe/vufind/Record/UNSA_20e315918cc634e49b8bdca8485dbf4f'
+
+url_video: 'https://youtu.be/UgAXyPoQFDg'
+
 # Optional project linking
 # projects: []
 
