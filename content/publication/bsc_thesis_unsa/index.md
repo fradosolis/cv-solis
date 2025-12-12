@@ -1,16 +1,16 @@
 ---
-title: 'Design of a 350 TPH Copper Concentrate Feeding Conveyor Belt with Automated Hydraulic Tensioning System and Receiving Hopper'
+title: 'Mechanical and structural design of a 420 TPH conveyor belt, including its transfer chutes verified through discrete element analysis'
 
 authors:
-  - Manuel Caipo
+  - admin
 
 author_notes:
   - 'National University of San Agustín, Arequipa, Peru'
 
-date: '2021-01-01T00:00:00Z'
-doi: '10.13140/RG.2.2.16596.92800'
+date: '2022-01-01T00:00:00Z'
+#doi: '10.13140/RG.2.2.16596.92800'
 
-publishDate: '2021-01-01T00:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 publication_types: ['thesis']
 
@@ -18,21 +18,24 @@ publication: Bachelor's Thesis, *National University of San Agustín*
 publication_short: Bachelor's Thesis
 
 abstract: >
-  This thesis presents the mechanical and structural design of a 350 TPH copper concentrate feeding conveyor belt system, integrating an automated hydraulic tensioning mechanism and a receiving hopper. The design methodology adheres to standards such as the CEMA and AISC, addressing variability in design practices across the mining sector. Finite element analysis (FEA) was used for the mechanical evaluation of belt components and structural elements. A significant time reduction of up to 90% was achieved by employing design software tools. The hydraulic scheme developed enables horizontal and vertical tensioning and may serve as a generalized solution for different conveyor layouts. The analysis highlights critical design aspects such as internal friction angle, dynamic pressures on the hopper, fatigue stresses on pulleys, and appropriate sealing geometries. This work contributes to standardized, efficient, and robust conveyor system designs for mineral transport applications.
+  In the present research work, the design of a conveyor belt located in an area near the sea and with high seismic danger has been carried out, the work was divided into three parts: Mechanical design, structural design of the metal support and analysis of the flow of the material at the transfer points, under a conservative criterion, the costs involved in the manufacture and purchase of the structural elements, mechanical components and the coating were shown.
+  The mechanical design includes the initial and iterative calculation of the main stresses, calculation of pulleys, selection of accessories and components necessary for an optimal operation of the conveyor belt.
+  The structural design of the support of the conveyor belt includes the determination and allocation of loads in the structure through a calculation program, determination of load combinations under the LRFD design method, analysis of the support frame of the counterweight by gravity, the analysis of connections under the effect of critical combinations and determination of the protective coating against the effects of corrosion.
+  For the flow analysis, the material properties and characteristics of the transfer points were determined, three cases were simulated for each point, for the simulation computational models of discrete elements were used, for the choice of the most optimal model factors such as distribution, impact, adaptability, cost, etc.
 
 summary: >
-  Design of a 350 TPH conveyor system for copper concentrate, featuring hydraulic tensioning, structural design via FEA, and standard-based validation.
+  Design of a 420 TPH conveyor system for copper concentrate, including mechanical, structural, and chute flow design using FEA, with validation according to applicable standards.
 
 featured: true
 
 url_pdf: 'https://www.researchgate.net/publication/393130024_Design_of_a_350_TPH_Copper_Concentrate_Feeding_Conveyor_Belt_with_Automated_Hydraulic_Tensioning_System_and_Receiving_Hopper'
 
-url_poster: 'https://alicia.concytec.gob.pe/vufind/Record/UNSA_c8b5c29fe0dbb14a4528d55f986f7ae1'
+url_poster: 'https://alicia.concytec.gob.pe/vufind/Record/UNSA_20e315918cc634e49b8bdca8485dbf4f'
 # Optional project linking
 # projects: []
 
 image:
-  caption: 'Automated Hydraulic Tensioning Conveyor System'
+  caption: 'demand-capacity ratio of the structural framework'
   focal_point: ''
   preview_only: false
 

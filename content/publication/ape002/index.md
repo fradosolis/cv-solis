@@ -31,7 +31,7 @@ featured: true
 url_pdf: 'https://zenodo.org/records/15853514'
 #url_code: 'https://github.com/manuelcaipocc/KI-in-der-Messtechnik'
 url_project: ''
-url_video: 'https://youtu.be/Y1OERh0HGjk'
+url_video: 'https://youtu.be/PSrlHsVnyr0'
 url_poster: ''
 url_dataset: ''
 url_slides: ''
