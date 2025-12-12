@@ -22,7 +22,7 @@ main:
   # - name: Platforms
   #   url: /#platforms
   #   weight: 60
-  - name: Resumé
+  - name: Resume
     url: uploads/resume.pdf
     weight: 70
   - name: Contact
