@@ -28,7 +28,7 @@ featured: true
 #  - name: GitHub Repository
 #    url: 'https://github.com/manuelcaipocc/KI-in-der-Messtechnik'
 
-url_pdf: 'https://zenodo.org/records/15853514'
+url_pdf: 'https://drive.google.com/file/d/1eABJyVvYe0Dnx_30VPowmFfw1VTpHQxC/view?usp=sharing'
 #url_code: 'https://github.com/manuelcaipocc/KI-in-der-Messtechnik'
 url_project: ''
 url_video: 'https://youtu.be/PSrlHsVnyr0'
