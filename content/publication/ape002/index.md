@@ -8,7 +8,7 @@ authors:
 #  - 'Furtwangen University – M.Sc. Advanced Precision Engineering'
 
 date: '2025-06-20T00:00:00Z'
-doi: '10.13140/RG.2.2.33374.14407'
+#doi: '10.13140/RG.2.2.33374.14407'
 
 publishDate: '2025-06-20T00:00:00Z'
 

@@ -11,7 +11,7 @@ authors:
 
 date: '2025-01-26T00:00:00Z'
 publishDate: '2025-01-26T00:00:00Z'
-doi: ''
+#doi: ''
 publication_types: ['Technical Report']
 publication: Mechanical Design
 publication_short: Optimization
@@ -23,9 +23,9 @@ summary: Validated a capacity upgrade of the MG50 spout to 2,000 TPH through opt
 
 featured: true
 
-url_pdf: 'https://zenodo.org/records/15852916'
+url_pdf: 'https://drive.google.com/file/d/1YoTm6VcRPmJch7FgVWo0fTdyUflmbCgs/view?usp=sharing'
 #url_code: 'https://github.com/manuelcaipocc/scara-robot-ros-simulation'
-url_video: 'https://youtu.be/3KK3Hs1eWqU'
+url_video: 'https://youtu.be/_lLMum46Qtc'
 
 image:
   caption: 'Impact force diagram'
