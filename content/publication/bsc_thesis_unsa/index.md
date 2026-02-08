@@ -24,7 +24,7 @@ abstract: >
   For the flow analysis, the material properties and characteristics of the transfer points were determined, three cases were simulated for each point, for the simulation computational models of discrete elements were used, for the choice of the most optimal model factors such as distribution, impact, adaptability, cost, etc.
 
 summary: >
-  Design of a 420 TPH conveyor system for copper concentrate, including mechanical, structural, and chute flow design using FEA, with validation according to applicable standards.
+  Design of a 420 TPH conveyor system for copper concentrate, including mechanical, structural, and chute flow design using FEA, with validation according to applicable  standards.
 
 featured: true
 
